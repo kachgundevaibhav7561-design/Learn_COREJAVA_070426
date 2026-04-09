@@ -23,6 +23,11 @@ public class VariableAndDatatpe {
 
         int num1=12;
         int num2=34;
+
+        int v=2;
+        int res=v++ + ++v * v++ - --v;
+        System.out.println(res);
+        System.out.println(v);
      
     /*Operators:
             arthimetic :-
