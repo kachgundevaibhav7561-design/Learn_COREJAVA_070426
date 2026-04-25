@@ -1,0 +1,21 @@
+--exception handling:
+exception handling when a program run sometime unexpected error this error are called if do not hnadle name
+java provide exception handling to handle errors and keep program running.
+-there are theree keyword in handling:
+a:try b:catch c:finally..
+TRy:
+   - try block contain risky code 
+   - this code make was exception
+Catch:
+    -it is handle the code
+finally:
+    -finally block always execute/ even is exception occur of exception
+    $  Uses:
+    -for closing database connection files or the relesing resources
+
+Throw keyword: 
+-throw is used to manuaaly create an exception..
+-
+
+-Throws:
+throws is used to method delclaration

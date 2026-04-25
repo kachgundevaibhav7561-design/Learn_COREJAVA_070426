@@ -1,0 +1,12 @@
+Encapsulation:
+    - Encapsulation is about first protection object data from unauthorized access.
+    -providing a control way to interact with a data 
+    -bundling data + behaviour INTO single unit 
+    -restrictiong directy accesss using private
+    -explosing control access why public method.
+Uses:
+-Data proctection with validation 
+-security 
+-Maintalbiltiy 
+
+>>>>>wrapper class ,enum,destructer, inner class remaining........
