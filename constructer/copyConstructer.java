@@ -9,12 +9,8 @@ public class copyConstructer {
             this.salary = salary;
             System.out.println("constrcuter exacuted");
 
-        }
-        emp(){
-
-        }
-
-        void dispalyDetails() {
+        
+       void dispalyDetails() {
             System.out.println("Employee name=" + name + "     " + "salary is= " + salary);
         }
     }
@@ -27,4 +23,5 @@ public class copyConstructer {
 
     }
 
+}
 }
