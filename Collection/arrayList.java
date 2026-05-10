@@ -4,5 +4,7 @@ public class arrayList {
         ArrayList<String> name=new ArrayList<>();
         name.add("pratik");
         System.out.println(name.get(2));
+
+        System.out.println(name.ensureCapacity(0));
     }
 }
